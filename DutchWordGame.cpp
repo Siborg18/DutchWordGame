@@ -3,7 +3,8 @@
 
 int main() {
    
-    copyDefaultWords();
+    //copyDefaultWords();
+    copyDutchWords();
     std::vector<std::string> words{randomWords()};
 
     for (int i{}; i < 50; i++)

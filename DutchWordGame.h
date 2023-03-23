@@ -10,8 +10,11 @@
 #include "SaveCurrentWords.cpp"
 #include "ShuffleWords.cpp"
 
+
+
 std::vector<std::string> importWords();
 std::vector<std::string> randomWords();
+void copyDutchWords();
 void save(std::string word);
 void copyDefaultWords();
 void clearWords();

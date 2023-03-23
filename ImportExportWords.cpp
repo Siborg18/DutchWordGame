@@ -1,5 +1,6 @@
 #include "DutchWordGame.h"
 
+
 std::vector<std::string> importWords()
 {
     // Store the contents into a vector of strings
@@ -49,6 +50,26 @@ void copyDefaultWords()
         dest.close();
     }
     infile.close();
+}
+
+void copyDutchWords()
+{
+    std::ifstream infile("CurrentSave.txt");
+    if (infile.peek() == std::ifstream::traits_type::eof())
+    {
+        std::string inputFilePath {"DutchWordsDefault.txt"};
+        std::string outputFilePath {"CurrentSave.txt"};
+
+        std::ifstream inputFile(inputFilePath);
+        std::ofstream outputFile(outputFilePath);
+        std::string line;
+        while (std::getline(inputFile, line)) {
+            outputFile << line << std::endl;
+        }
+
+    inputFile.close();
+    outputFile.close();
+    }
 }
 
 void clearWords()
