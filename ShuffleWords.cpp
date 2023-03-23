@@ -1,4 +1,5 @@
 #include "DutchWordGame.h"
+#include <random> 
 
 std::mt19937 randomSeed()
 {
@@ -8,7 +9,8 @@ std::mt19937 randomSeed()
 
 std::vector<std::string> randomWords()
 {
-    auto rng = std::default_random_engine{ randomSeed() };
+    std::random_device rng;
+    //auto rng = std::default_random_engine{ randomSeed() };
 
     std::vector<std::string> words{ importWords() };
 
