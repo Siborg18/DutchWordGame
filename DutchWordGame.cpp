@@ -1,11 +1,14 @@
+#include <cassert>
+#include <cstring> 
+#include <chrono> 
 #include <fstream>
 #include <iostream>
+#include <random> 
 #include <sstream>
 #include <string>
-#include <cstring> 
 #include <vector>
 
-bool g_gameIsOn {true}; // I need to remove this global variable, I'll need to redo the user input
+// bool g_gameIsOn {true}; // I need to remove this global variable, I'll need to redo the user input
                         // I'll need to make the userInput usable for all functions
 
 std::pair<std::string, std::string> readLinesFromFileAsPair(const std::string& line)
@@ -47,32 +50,62 @@ void writeVectorToFile(const std::vector<std::string>& wordListIn, const std::st
     }
 }
 
-int getRandomNumber(int lowerLimit, int upperLimit)
+std::mt19937 randomSeed()
 {
-  // random number gen to grab random word from word list
-  return 0;
+	std::mt19937 seed{ std::random_device{}() };
+
+  return seed;
 }
 
-bool userKnowsWord(std::string dutchWordIn, std::string englishWordIn)
+int getRandomNumber(int upperLimit, std::mt19937 seed)
 {
-  std::cout << "Do you know the word: (y or n) " << dutchWordIn << std::endl;
-  char x {};
-  std::cin >> x;
+  std::uniform_int_distribution<> numberGenerator{ 0, upperLimit };
+  int randomNumber = numberGenerator(seed);
+  // random number gen to grab random word from word list
+  return randomNumber;
+}
 
-  if (x == 'y' || x == 'Y')
+void emptySaveFile()
+{
+  std::ofstream ofs;
+  ofs.open("SavedWords.txt", std::ofstream::out | std::ofstream::trunc);
+  ofs.close();
+}
+
+bool userKnowsWord(std::string dutchWordIn, std::string englishWordIn, std::string userInput, bool& gameIsOn, bool& saveFile)
+{
+  char c{};
+  if(userInput.size() == 1)
+  {
+    c = userInput.at(0);
+  }
+  else
+  {
+  for (char& c : userInput) {
+        c = std::tolower(c);
+    }
+  }
+  if (userInput == "yes" || c == 'y')
   {
     std::cout << "Player knows the word: " << dutchWordIn << " means " << englishWordIn << std::endl;
     return true;
   }
-  else if (x == 'n' || x == 'N')
+  else if (userInput == "no" || c == 'n')
   {
     std::cout << "Player does not know the word: " << dutchWordIn << std::endl;
     std::cout << "Translation:  " << dutchWordIn << " means " << englishWordIn << std::endl;
     return false;
   }
-  if (x == 'q' || 'e')
+  if (userInput == "quit" || userInput == "exit" || c == 'q')
   {
-    g_gameIsOn = false;
+    gameIsOn = false;
+    return false;
+  }
+  if(userInput == "reset" || c == 'r')
+  {
+    emptySaveFile();
+    saveFile = false;
+    gameIsOn = false;
     return false;
   }
   else
@@ -85,21 +118,33 @@ bool userKnowsWord(std::string dutchWordIn, std::string englishWordIn)
 
 int main ()
 {
-    std::vector<std::string> wordList {};
-    int n {0};
+  std::mt19937 initSeed{randomSeed()};
+  std::vector<std::string> wordList {};
+  wordList = readLinesFromFile("SavedWords.txt");
+  int n {0};
+  std::string userInput {};
+  bool gameIsOn {true};
+  bool saveFile {true};
+  if (wordList.size() < 1)
+  {
+    std::cout << "File is empty importing default Dutch words" << std::endl;
     wordList = readLinesFromFile("DutchWordsDefault.txt");
-    while (g_gameIsOn)
-    {
-    std::cout << "This is the number of elements in wordlist " << wordList.size() << std::endl;
-    std::pair<std::string, std::string> currentWord {};
-    currentWord = readLinesFromFileAsPair(wordList[n]);
-    std::cout << "Current word first part: " << currentWord.first << std::endl; 
-    std::cout << "Current word second part: " << currentWord.second << std::endl;
-    if(userKnowsWord(currentWord.first, currentWord.second))
-    {
-      wordList.erase(wordList.begin() + n);
-    }
-    }
+  }    
+  while (gameIsOn)
+  {
+  n = getRandomNumber(wordList.size(), initSeed);
+  std::cout << "This is the number of elements in wordlist " << wordList.size() << std::endl;
+  std::pair<std::string, std::string> currentWord {};
+  currentWord = readLinesFromFileAsPair(wordList[n]);
+  std::cout << "Do you know the word: (yes or no)(reset to restart game or exit to quit) " << currentWord.first << std::endl;
+  std::cin >> userInput;
+  std::cout << "Current word first part: " << currentWord.first << std::endl; 
+  std::cout << "Current word second part: " << currentWord.second << std::endl;
+  if(userKnowsWord(currentWord.first, currentWord.second, userInput, gameIsOn, saveFile))
+  {
+    wordList.erase(wordList.begin() + n);
+  }
+  }
     
 
 /*     for (int i{0}; i < wordList.size(); i++)
@@ -107,7 +152,9 @@ int main ()
       std::cout << wordList[i] << std::endl;
     } */
 
-
+  if (saveFile)
+  {
     writeVectorToFile(wordList, "SavedWords.txt");
+  }
     return 0;
 }

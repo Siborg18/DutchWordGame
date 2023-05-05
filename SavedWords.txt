@@ -1,3 +1,6 @@
+ik,I 
+je,you 
+het,the 
 de,the 
 dat,Which 
 is,is 
@@ -20,8 +23,6 @@ voor,in front of
 die,That 
 heb,have 
 me,me 
-als,as 
-was,used to be 
 ben,am 
 om,to 
 dit,this 
