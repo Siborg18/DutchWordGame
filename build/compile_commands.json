@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/simon/VS Code Projects/DutchWordGame.1.0/build",
+  "command": "/usr/bin/g++ -I../DutchWordGame.1.0 -g -std=gnu++2a -o CMakeFiles/main.dir/DutchWordGame.cpp.o -c \"/home/simon/VS Code Projects/DutchWordGame.1.0/DutchWordGame.cpp\"",
+  "file": "/home/simon/VS Code Projects/DutchWordGame.1.0/DutchWordGame.cpp"
+}
+]

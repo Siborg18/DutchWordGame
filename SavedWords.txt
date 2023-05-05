@@ -1,0 +1,997 @@
+de,the 
+dat,Which 
+is,is 
+een,a 
+niet,not 
+en,and 
+van,from 
+wat,what 
+we,we 
+in,in 
+ze,they 
+hij,he 
+te,at 
+zijn,to be 
+op,on 
+maar,but 
+er,there 
+met,of 
+voor,in front of 
+die,That 
+heb,have 
+me,me 
+als,as 
+was,used to be 
+ben,am 
+om,to 
+dit,this 
+mijn,mine 
+aan,at 
+u,you 
+dan,then 
+n,n 
+naar,nasty 
+weet,know 
+hier,here 
+zo,like this 
+jij,you 
+kan,can 
+geen,no 
+nog,yet 
+ja,Yes 
+hem,it 
+heeft,has 
+wel,well 
+moet,must 
+wil,want 
+hebben,to have 
+goed,good 
+haar,hair 
+nee,no 
+hoe,how 
+nu,now 
+waar,Where 
+over,about 
+ook,also 
+doen,to do 
+uit,from 
+zou,would 
+ga,go 
+of,or 
+gaan,to go 
+bent,are 
+mij,me 
+bij,Bee 
+al,already 
+ons,U.S 
+had,had 
+iets,something 
+daar,over there 
+jullie,you 
+gaat,go 
+zal,shall 
+m,m 
+hebt,have 
+kom,bowl 
+waarom,Why 
+meer,Lake 
+deze,this one 
+moeten,should 
+t,t 
+laat,leave 
+kunnen,be able to 
+dus,So 
+jou,you 
+denk,think 
+wie,Who 
+alles,everything 
+echt,Real 
+doe,off 
+door,by means of 
+alleen,alone 
+s,s 
+toch,However 
+zien,to see 
+weg,away 
+eens,once 
+man,man 
+misschien,perhaps 
+laten,to leave 
+nooit,never 
+nou,Well 
+zei,said 
+terug,back 
+oké,Okay 
+mee,along 
+niets,nothing 
+iemand,someone 
+komt,coming 
+toen,when 
+veel,a lot 
+even,for a bit 
+onze,our 
+gewoon,just 
+weten,know 
+komen,come 
+nodig,required 
+mensen,people 
+tot,until 
+worden,become 
+zeggen,say 
+tijd,time 
+weer,again 
+leven,to live 
+twee,two 
+net,just 
+tegen,against 
+maken,to make 
+uw,your 
+zeg,say 
+omdat,because 
+zit,sit 
+wordt,is becoming 
+z,Z 
+hou,keep 
+kijk,look 
+heel,all 
+wij,we 
+altijd,always 
+mag,allowed 
+gedaan,done 
+dood,dead 
+zeker,secure 
+af,off 
+jaar,year 
+hun,their 
+wilde,Savage 
+dag,day 
+allemaal,all 
+jouw,your 
+huis,House 
+dacht,thought 
+doet,is doing 
+vader,father 
+kunt,can 
+wacht,guard 
+zie,see 
+vrouw,female 
+keer,time 
+andere,Others 
+zoals,like 
+zij,she 
+dank,thanks 
+anders,otherwise 
+geef,give 
+waren,goods 
+willen,want 
+zich,himself 
+bedankt,thanks 
+één,a 
+mr,MR 
+erg,terribly 
+wilt,want 
+praten,to talk 
+spijt,regret 
+geld,money 
+kon,could 
+werk,work 
+oh,Oh 
+iedereen,everybody 
+beter,better 
+werd,became 
+moeder,mother 
+niemand,no one 
+vinden,find 
+staat,state 
+gezien,seen 
+niks,nothing 
+binnen,inside 
+zitten,to sit 
+zullen,shall 
+na,after 
+helpen,help out 
+wist,knew 
+vind,find 
+genoeg,enough 
+sorry,Sorry 
+vast,fixed 
+elkaar,each other 
+ging,went 
+uur,hour 
+klaar,finished 
+hele,whole 
+neem,take 
+leuk,nice 
+natuurlijk,naturally 
+alle,all 
+god,God 
+maak,make 
+lang,long 
+kwam,came 
+graag,with pleasure 
+hé,Hey 
+toe,at 
+drie,three 
+zegt,say 
+bedoel,mean 
+deed,held 
+dingen,stuff 
+maakt,make 
+alsjeblieft,please 
+eerste,first 
+krijgen,to get 
+zonder,without 
+steeds,still 
+hallo,Hello 
+houden,to keep 
+vertellen,narrate 
+ziet,sees 
+idee,idea 
+geven,to give 
+achter,behind 
+geweest,been 
+blijven,stay 
+helemaal,all the way 
+mooi,pretty 
+onder,below 
+kijken,to look 
+zag,saw 
+goede,good 
+naam,name 
+moest,had to 
+blijf,stay 
+kun,abundance 
+auto,car 
+luister,listen 
+grote,great 
+lijkt,seems 
+snel,fast 
+ooit,ever 
+vragen,to ask 
+paar,couple 
+wanneer,when 
+want,because 
+meneer,sir 
+nieuwe,new ones 
+gebeurd,happened 
+zorgen,to care 
+vriend,friend 
+beetje,bit 
+kinderen,children 
+gek,crazy 
+hand,hand 
+vraag,ask 
+laatste,last 
+geweldig,awesome 
+hadden,had 
+zelfs,even 
+enige,any 
+bang,anxious 
+nemen,to take 
+samen,together 
+eten,to eat 
+o,O 
+zelf,yourself 
+hoor,hear 
+geleden,past 
+staan,stand 
+gevonden,found it 
+jongen,boy 
+denken,think 
+vandaag,Today 
+denkt,thinks 
+beste,Best 
+gezegd,said 
+thuis,At home 
+wereld,world 
+jongens,boys 
+heen,to 
+ken,know 
+hen,them 
+eerst,first 
+eigen,own 
+zoon,son 
+gelijk,equal 
+buiten,Outside 
+vertel,tell 
+morgen,tomorrow 
+meisje,girl 
+probleem,issue 
+alsof,as if 
+geloof,believe 
+halen,to fetch 
+familie,family 
+elke,each 
+zouden,would 
+hoop,heap 
+politie,Police 
+mannen,men 
+bijna,almost 
+vermoord,murdered 
+eigenlijk,actually 
+werken,to work 
+verdomme,damn 
+horen,to belong 
+manier,way 
+zat,was sitting 
+vrienden,friends 
+precies,precisely 
+kind,child 
+hè,Hey 
+kleine,little 
+begrijp,understand 
+wou,wish 
+geeft,gives 
+orde,order 
+houdt,holds 
+verder,further 
+vroeg,early 
+stop,Stop 
+wachten,to wait 
+rustig,Calm 
+hoofd,head 
+krijg,get 
+daarom,therefore 
+gebeurt,happens 
+soms,sometimes 
+volgens,according to 
+dagen,to dawn 
+vond,found 
+krijgt,gets 
+gemaakt,created 
+kant,side 
+werkt,works 
+open,Open 
+gehad,having 
+voel,feel 
+zaak,matter 
+blij,pleased 
+volgende,next one 
+zoek,Search 
+kans,opportunity 
+vanavond,this evening 
+bel,call 
+probeer,try 
+zoeken,Search 
+oude,old 
+ding,thing 
+moment,moment 
+best,best 
+tussen,among 
+plaats,Place 
+pas,pass 
+gehoord,heard 
+vijf,five 
+verteld,told 
+zet,sets 
+prima,fine 
+hulp,staff 
+stad,city 
+vindt,finds 
+brengen,bring 
+pijn,pain 
+slecht,bad 
+geloven,to believe 
+eruit,out 
+minuten,minute 
+school,school 
+plan,plan 
+broer,brother 
+pak,business suit 
+jezelf,yourself 
+hoeveel,How much 
+kamer,room 
+betekent,means 
+spreken,to speak 
+juist,right 
+heet,is called 
+soort,kind 
+haal,get 
+ergens,somewhere 
+vier,four 
+gebruiken,to use 
+ligt,is 
+blijft,stays 
+welke,which 
+proberen,to attempt 
+dokter,doctor 
+agent,agent 
+help,Help 
+later,later 
+voordat,before 
+ogen,eyes 
+vrij,free 
+klopt,beats 
+gaf,gave 
+foto,photo 
+word,become 
+zodat,so that 
+dochter,daughter 
+problemen,issues 
+plek,place 
+water,water 
+kent,knows 
+week,week 
+beginnen,to start 
+praat,talking 
+eerder,earlier 
+lk,lk 
+mis,mass 
+handen,hands 
+deur,door 
+baby,baby 
+bellen,to call 
+boven,upper 
+groot,big 
+echte,real 
+hoeft,needs 
+ie,ie 
+doden,kill 
+stoppen,stop 
+moeilijk,difficult 
+dr,Dr. 
+sinds,ever since 
+land,land 
+spelen,to play 
+zoveel,this much 
+hetzelfde,same 
+mevrouw,Mrs 
+snap,snap 
+breng,bring 
+pakken,to grab 
+druk,pressure 
+verhaal,story 
+lekker,yummy 
+vrouwen,women 
+schat,treasure 
+vergeten,to forget 
+gebeuren,to happen 
+ervan,of it 
+kreeg,got 
+waarschijnlijk,probably 
+hoi,Hi 
+mogelijk,possibly 
+mooie,nice 
+bloed,blood 
+wees,orphan 
+nacht,night 
+nieuws,news 
+bed,bed 
+liet,let 
+lopen,walk 
+gelukkig,happy 
+waarheid,truth 
+reden,rode 
+papa,Daddy 
+hoorde,heard 
+klinkt,sounds 
+maanden,months 
+vermoorden,murder 
+zorg,concern 
+dollar,dollar 
+bezig,in process 
+voorbij,past 
+terwijl,while 
+sta,stand 
+zaken,Affairs 
+avond,evening 
+tien,ten 
+schuld,debt 
+veilig,safe 
+redden,to rescue 
+hart,heart 
+zult,will 
+duidelijk,clear 
+stel,couple 
+the,the 
+schiet,shooting 
+eraan,there 
+zes,six 
+begin,get started 
+gekomen,arrived 
+vol,full 
+vriendin,female friend 
+rond,round 
+voelt,feel 
+baas,boss 
+moord,murder 
+ander,other 
+klein,small 
+fijn,nice 
+jaren,years 
+mam,mam 
+lichaam,body 
+eerlijk,honestly 
+gezicht,sight 
+ver,far 
+wakker,wake -up 
+ouders,parents 
+zoiets,something like this 
+leren,to learn 
+telefoon,phone 
+los,loose 
+per,per 
+mama,mom 
+nummer,number 
+fout,error 
+mogen,be allowed to 
+meteen,immediately 
+slapen,to sleep 
+zeer,very 
+dezelfde,the same 
+liefde,love 
+alstublieft,Please 
+deel,part 
+liggen,lying down 
+erop,on top 
+vaak,often 
+vallen,fall 
+belangrijk,important 
+sterven,die 
+oud,old 
+neer,down 
+buurt,neighbourhood 
+langs,by 
+houd,loves 
+rest,rest 
+stond,was standing 
+sir,sir 
+begrepen,understood 
+drinken,drinks 
+team,team 
+vertelde,told 
+beneden,down 
+vergeet,forgets 
+vooruit,ahead 
+mrs,Mrs. 
+hoort,belongs 
+baan,track 
+dicht,closed 
+inderdaad,indeed 
+geval,case 
+zetten,to make 
+oorlog,war 
+mezelf,myself 
+tijdens,during the day 
+john,John 
+maakte,feature 
+kennen,know 
+gebruikt,used 
+oke,Okay 
+geluk,luck 
+hey,hey 
+hield,kept 
+wapen,weapon 
+kop,head 
+vertrouwen,to trust 
+rust,peace 
+mond,mouth 
+weken,to soften 
+elk,each 
+betalen,Pay 
+anderen,others 
+neemt,takes 
+recht,straight 
+nam,grabbed 
+jack,jacket 
+kantoor,office 
+gegeven,given 
+ermee,with it 
+overal,everywhere 
+eén,a 
+daarna,then 
+tweede,second 
+onderzoek,research 
+welkom,welcome 
+hard,hard 
+liever,rather 
+bewijs,evidence 
+vanaf,from 
+aardig,friendly 
+klootzak,asshole 
+stuk,piece 
+woord,word 
+veranderen,change 
+zin,sentence 
+straks,soon 
+vent,guy 
+zus,sister 
+haat,hate 
+vandaan,from 
+miss,miss 
+lieverd,darling 
+zichzelf,itself 
+nieuw,new 
+ontmoeten,Meet 
+werden,be 
+allebei,both 
+minder,fewer 
+pap,dad 
+nergens,nowhere 
+kwaad,pissed off 
+sam,sam 
+erin,there 
+ervoor,before 
+kerel,dude 
+gisteren,yesterday 
+ontmoet,meet 
+miljoen,million 
+ok,OK 
+film,movie 
+verloren,lost 
+probeerde,attempted 
+gebeld,called 
+new,new 
+antwoord,answer 
+noemen,to call 
+informatie,information 
+boek,book 
+stil,quiet 
+kapitein,captain 
+kwijt,lost 
+enkel,only 
+valt,fall 
+boos,angry 
+licht,light 
+geworden,have become 
+pa,pa 
+persoon,person 
+konden,abundance 
+beschermen,to protect 
+slechte,poor 
+ziekenhuis,Hopital 
+gevoel,feeling 
+gegaan,gone 
+voorzichtig,carefully 
+hond,dog 
+rijden,to drive 
+eindelijk,Finally 
+gesproken,spoken 
+meisjes,girls 
+aarde,soil 
+ten,at 
+normaal,normal 
+grappig,funny 
+heren,Men 
+voelen,to feel 
+moordenaar,killer 
+mens,man 
+president,president 
+nogal,quite 
+gevangenis,jail 
+loopt,runs 
+degene,the one 
+prachtig,beautiful 
+hoezo,how so 
+kopen,to buy 
+vechten,to fight 
+punt,point 
+vreemd,foreign 
+trouwen,Marry 
+contact,Contact 
+verkeerd,wrong 
+meen,mean 
+koffie,coffee 
+verwacht,expected 
+schip,ship 
+ziek,ill 
+plezier,pleasure 
+einde,end 
+stap,step 
+advocaat,lawyer 
+begint,begins 
+begon,began 
+enkele,couple of 
+erbij,there 
+gang,course 
+gebeurde,happened 
+heer,gentleman 
+herinner,remember 
+jezus,Jesus 
+opnieuw,again 
+serieus,serious 
+zomaar,just like that 
+pardon,excuse me 
+gevraagd,sought -after 
+controle,check 
+getrouwd,married 
+daarmee,with that 
+spel,game 
+bedoelt,intended 
+perfect,perfect 
+stellen,set 
+juiste,right one 
+koning,king 
+beloof,promise 
+grond,ground 
+waard,worth 
+winnen,to win 
+nadat,once 
+gebruik,usage 
+naartoe,to 
+begrijpen,to understand 
+veranderd,changed 
+acht,eight 
+he,Hey 
+gingen,went 
+kwamen,arrive 
+leeft,lives 
+leg,put 
+gekregen,got 
+langer,longer 
+verliezen,losses 
+vroeger,back in the days 
+lucht,sky 
+wapens,weapons 
+verlaten,leave 
+probeert,tries 
+dames,ladies 
+seks,sex 
+schieten,shoot 
+toekomst,future 
+behalve,except for 
+slim,smart 
+meest,most 
+stuur,send 
+leger,army 
+woorden,words 
+zeven,seven 
+brengt,brings 
+charlie,Charlie 
+half,half 
+hierheen,here 
+trots,pride 
+spullen,stuff 
+geheim,secret 
+helpt,helps 
+vraagt,requires 
+michael,Michael 
+weinig,few 
+ongeveer,about 
+schatje,darling 
+sommige,some 
+makkelijk,comfortable 
+kracht,power 
+gedood,killed 
+gestolen,stolen 
+tenminste,at least 
+lange,long 
+ongeluk,accident 
+frank,Frank 
+zodra,as soon 
+werkte,work 
+wilden,wild ones 
+eet,eat 
+slechts,only 
+lief,sweet 
+nietwaar,not true 
+relatie,relation 
+trek,migration 
+afgelopen,past 
+val,fall 
+volgen,follow 
+ter,ter 
+voelde,felt 
+bekend,familiar 
+bewijzen,prove 
+hoef,hoof 
+via,through 
+oom,uncle 
+loop,run 
+belde,call 
+lijken,appear 
+sturen,send 
+men,men 
+slachtoffer,victim 
+george,George 
+genomen,taken 
+maand,month 
+onzin,nonsense 
+meid,girl 
+york,York 
+erger,worse 
+idioot,idiot 
+ziens,see 
+dienst,employ 
+erover,over 
+feest,party 
+leek,seemed 
+vreselijk,horrible 
+eentje,one 
+gevaar,danger 
+wonen,live 
+grootste,great 
+succes,good luck 
+vertrekken,leave 
+jawel,Yes 
+muziek,music 
+mocht,for 
+raar,weird 
+slaap,sleep 
+joe,Joe 
+absoluut,absolute 
+vorige,previous 
+ruimte,room 
+ieder,everyone 
+schuldig,guilty 
+goeie,good 
+begonnen,started 
+luisteren,listen 
+sterk,strong 
+omhoog,upwards 
+totdat,until 
+afspraak,appointment 
+lezen,read 
+zwarte,black 
+vanwege,because of 
+hemel,heaven 
+tenzij,unless 
+gisteravond,yesterday evening 
+begrijpt,understand 
+ene,one 
+lag,lag 
+naast,next 
+vooral,mainly 
+fantastisch,fantastic 
+gered,saved 
+viel,fell 
+trouwens,Incidentally 
+uh,uh 
+bank,Bank 
+pistool,pistol 
+noem,call 
+bedrijf,company 
+camera,camera 
+blijkbaar,evidently 
+woont,lives 
+verkopen,to sell 
+beide,both 
+zolang,so long 
+straat,street 
+mike,Mike 
+geest,spirit 
+david,David 
+vuur,firework 
+peter,Peter 
+verkeerde,wrong 
+moesten,had to 
+lieve,dear 
+tom,Tom 
+geprobeerd,tried 
+meeste,most 
+kijkt,looks 
+stierf,died 
+hotel,hotel 
+droom,dream 
+verliefd,in love 
+jammer,Unfortunately 
+gedacht,thought 
+let,note 
+rug,back 
+vertaling,translation 
+slaan,to beat 
+gaten,holes 
+doel,goal 
+meter,meter 
+drugs,drug 
+gevaarlijk,dangerous 
+geweldige,great 
+lijst,list 
+fbi,FBI 
+namen,take 
+deden,did 
+jonge,young 
+schelen,care 
+goedemorgen,good morning 
+dragen,to wear 
+iedere,each 
+excuseer,excuse 
+stom,stupid 
+jong,young 
+zover,as far 
+betaald,paid 
+kende,knew 
+kleren,clothes 
+gesprek,conversation 
+lukt,succeeds 
+welk,which 
+vertelt,tells 
+prijs,price 
+voorstellen,to introduce 
+huwelijk,wedding 
+tv,TV 
+missen,to miss 
+schrijven,to write 
+groep,group 
+herinneren,to remind 
+regels,lines 
+vonden,found 
+vliegtuig,aeroplane 
+onderweg,underway 
+delen,parts 
+geleerd,learned 
+stomme,stupid 
+bestaat,consists 
+james,James 
+vertrouw,trust 
+daarvoor,therefor 
+shit,shit 
+trekken,Pull 
+zak,bag 
+vanuit,from 
+gebracht,brought 
+stem,voice 
+gezin,family 
+keuze,choice 
+raken,touch 
+direct,straight away 
+verdomde,damn 
+boot,boat 
+dom,stupid 
+verleden,past 
+gemist,missed 
+duurt,takes 
+gedachten,thoughts 
+situatie,situation 
+moe,tired 
+deal,deal 
+tafel,table 
+band,band 
+generaal,general 
+reis,trip 
+partner,partner 
+leuke,nice 
+raad,council 
+honger,hungry 
+geraakt,touched 
+gebouw,building 
+zwaar,heavy 
+gast,guest 
+gestuurd,steered 
+geboren,born 
+bracht,brought 
+rechter,judge 
+agenten,agents 
+bureau,desk 
+macht,power 
+spreek,speak 
+derde,third 
+regel,rule 
+kolonel,colonel 
+ruzie,row 
+oma,Grandma 
+zeiden,said 
+speelt,plays 
+dronken,drunk 
+vliegen,fly 
+luitenant,lieutenant 
+gelooft,believes 
+arme,poor 
+seconden,second 
+liep,walked 
+tuurlijk,of course 
+red,red 
+gefeliciteerd,congratulations 
+koud,cold 
+regelen,arrange for 
+henry,Henry 
+bericht,message 
+vlucht,flight 
+moeite,trouble 
+hel,hell 
+dame,Lady 
+oog,eye 
+ma,ma 
+dansen,to dance 
+teken,sign 
+onmogelijk,impossible 
+gewerkt,worked 
+helaas,unfortunately 
+grapje,just kidding 
+arm,arm 
+show,show 
+lachen,laugh 
+leggen,lay 
+sleutel,key 
+wet,law 
+liefje,sweetheart 
